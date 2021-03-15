@@ -39,6 +39,7 @@ if __name__ == "__main__":
 			"%s You're late for your 8-hour sleep appointment." % ping,
 			"%s You may not _think_ you need to go to bed now, but you probably do." % ping,
 			"%s Being nice to your current self is good, but being nice to your future self is important too, and I bet your future self will appreciate having gottena  full night's sleep." % ping,
+			"%s i will be VEWWY sad if you don't go to bed soon uwu" % ping,
 		]
 
 		data = {
