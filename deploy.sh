@@ -1,6 +1,6 @@
 #!/bin/sh
 
-excludes="--exclude=wwellness-cron"
+excludes="--exclude=__pycache__"
 
 
 if [ -z "$1" ]; then

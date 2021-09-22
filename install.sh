@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /opt/Wellness/
+cd /opt/wWellness/
 
 cp ./wwellness-cron /etc/cron.d/
 
