@@ -1,6 +1,6 @@
 #!/bin/sh
 
-excludes="--exclude=wwellness-cron --exclude=upgrade-log.txt"
+excludes="--exclude=wwellness-cron"
 
 
 if [ -z "$1" ]; then
