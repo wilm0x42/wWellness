@@ -47,6 +47,10 @@ if __name__ == "__main__":
 			"username" : "Wellness Board"
 		}
 		
+		# this is the part where you get the chance to see a *rare* message :)
+		if random.randint() % 500 == 0:
+			data["content"] = "https://cdn.discordapp.com/attachments/430078268037660686/899758205901635604/unknown.png"
+		
 		result = requests.post(discordUrl, json=data)
 		
 		print("Yeet")
