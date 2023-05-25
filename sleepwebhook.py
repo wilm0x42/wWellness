@@ -18,8 +18,8 @@ if __name__ == "__main__":
     with open("sleep_lines.txt") as f:
         sleep_lines = f.readlines()
     
-    for line in sleep_lines:
-        line.replace("{ping}", ping)
+    for line_index, line in enumerate(sleep_lines):
+        sleep_lines[line_index] = line.replace("{ping}", ping)
 
     data = {
         "content": random.choice(sleep_lines),
