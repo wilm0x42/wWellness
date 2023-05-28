@@ -6,7 +6,7 @@ You know they'll be looking for dudes up past their bed time {ping}
 {ping} Hey, if you stay up much later, you may risk heckin' up your sleep schedule.
 {ping} Just want to remind you of how bad it feels to not get a good night's sleep, and that you can try to prevent that by going to bed now instead of later.
 {ping} It is time to let the  m e l a t o n i n  start getting your mind and body  mela_toned_ down.
-Hey everyone, please get mad at {ping} if they don't go to bed soon."
+Hey everyone, please get mad at {ping} if they don't go to bed soon.
 BED TIME **ALERT**\n{ping} IS NEARING THEIR APPOINTED TIME TO REST.
 {ping} Yeah, being awake is cool and all, but sleeping makes being awake _even better_ tomorrow.
 {ping} Imagine being up past your bedtime
